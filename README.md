@@ -18,22 +18,7 @@ Once in directory, make sure to install dependencies:
 ```bash
 npm install
 ```
-Now type in the following to use application:
-
-To add a file:
+Now type in the following to find out how to use the application:
 ```bash
-node app.js add --title="titlename" --body="bodycontent" 
-```
-To remove a file:
-```bash
-node app.js add --title="titlename" 
-```
-To list all files:
-To add a file:
-```bash
-node app.js list 
-```
-To read a file:
-```bash
-node app.js read --title="titlename" 
+node app.js --help
 ```
