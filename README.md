@@ -12,7 +12,7 @@ git clone https://github.com/tngo98/notes-app.git
 ```
 Open up command prompt and change to the directory where the app was installed:
 ```bash
-cd <i>directory</i>
+cd "directory"
 ```
 Once in directory, make sure to install dependencies:
 ```bash
